@@ -8,7 +8,15 @@
   },
   "package": {
     "productName": "updater-test",
-    "version": "0.0.0"
+    "version": "0.0.1"
+  },
+  "updater": {
+    "active": true,
+    "endpoints": [
+        "https://drive.switch.ch/index.php/s/Lcq5lbF46SKMqld/download"
+    ],
+    "dialog": true,
+    "pubkey": "YOUR_UPDATER_SIGNATURE_PUBKEY_HERE"
   },
   "tauri": {
     "allowlist": {
@@ -33,7 +41,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "updater-test-app-tauri",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
