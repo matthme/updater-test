@@ -4,20 +4,20 @@
   "pub_date": "2023-01-23T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "",
-      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.app.tar.gz"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test.app.tar.gz",
+      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test.app.tar.gz.sig"
     },
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/silicon/app.app.tar.gz"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test.app.tar.gz.sig",
+      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test.app.tar.gz.sig"
     },
     "linux-x86_64": {
-      "signature": "",
-      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test_0.0.1_amd64.AppImage.tar.gz.sig",
+      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test_0.0.1_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.x64.msi.zip"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test_0.0.1_x64_en-US.msi.zip.sig",
+      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.1/updater-test_0.0.1_x64_en-US.msi.zip"
     }
   }
 }
