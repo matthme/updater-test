@@ -1,23 +1,23 @@
 {
-  "version": "v0.0.3",
-  "notes": "Updated to version 0.0.3. This version is supposed to test whether updates work!",
+  "version": "v0.0.4",
+  "notes": "Updated to version 0.0.4. This version is supposed to test whether updates work!",
   "pub_date": "2023-02-08T17:42:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test.app.tar.gz.sig",
-      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test.app.tar.gz"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test.app.tar.gz.sig",
+      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test.app.tar.gz.sig",
-      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test.app.tar.gz"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test.app.tar.gz.sig",
+      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test_0.0.3_amd64.AppImage.tar.gz.sig",
-      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test_0.0.3_amd64.AppImage.tar.gz"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test_0.0.4_amd64.AppImage.tar.gz.sig",
+      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test_0.0.4_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test_0.0.3_x64_en-US.msi.zip.sig",
-      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.3/updater-test_0.0.3_x64_en-US.msi.zip"
+      "signature": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test_0.0.4_x64_en-US.msi.zip.sig",
+      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test_0.0.4_x64_en-US.msi.zip"
     }
   }
 }
