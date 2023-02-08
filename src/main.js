@@ -8,10 +8,14 @@ async function greet() {
   greetMsgEl.textContent = await invoke("greet", { name: greetInputEl.value });
 }
 
-window.addEventListener("DOMContentLoaded", () => {
-  greetInputEl = document.querySelector("#greet-input");
-  greetMsgEl = document.querySelector("#greet-msg");
-  document
-    .querySelector("#greet-button")
-    .addEventListener("click", () => greet());
-});
+// window.addEventListener("DOMContentLoaded", () => {
+//   greetInputEl = document.querySelector("#greet-input");
+//   greetMsgEl = document.querySelector("#greet-msg");
+//   document
+//     .querySelector("#greet-button")
+//     .addEventListener("click", () => greet());
+// });
+
+window.__TAURI__.event.listen('tauri://update-status', function (res) {
+  console.log('Update status: ', res)
+})
