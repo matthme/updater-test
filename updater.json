@@ -1,23 +1,23 @@
 {
-  "version": "v0.0.4",
-  "notes": "Updated to version 0.0.4. This version is supposed to test whether updates work!",
+  "version": "v0.0.5",
+  "notes": "Updated to version 0.0.5. This version is supposed to test whether updates work!",
   "pub_date": "2023-02-08T17:42:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOTVJZTExK1EzUWUydTFOa1pSQnhSTHQ1Z09CcnFvTUhMcFA5ajJIczgwbzlkSTFncXBFRDFSb3MxQmovcWR6U3A2ZW1OZEhZbjV4d09id1NHVTZieGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1ODc2MDI1CWZpbGU6dXBkYXRlci10ZXN0LmFwcC50YXIuZ3oKZmZTYVE2R1Qyd09Cc3JxYm5aUTNuY0NxRW9QdHI2ZG9QR0pWOXFYbVdKc0x1a2hCT2hVczJrYlZPQ3o5NGladVE5YjNMWjhOMVJweFNvc3JYclpHQVE9PQo=",
-      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOTRkTVlBRjlIakpsM08rdU1LaFh3cWk1Q0ZGQ3FYZ0VGVkhXRGRPWnpzR2NEa3UxdzVqNi9XaVRmbUUwL05vTFVKaUhlbzRFUTYwQ1MvKzBQckg1L0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc2NDY0NjM5CWZpbGU6dXBkYXRlci10ZXN0LmFwcC50YXIuZ3oKbm03ajdVMVVEVHQ3Smxhb2twbFVLd1QzV1gyOVpEcnZuVFQwckhmWWR6WUZuclEwQzVYNFhjNzhhaEVVS0hJQlZLR0FRVkRWMUZoM2xSbVVJS0xtQVE9PQo=",
+      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.5/updater-test.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOTVJZTExK1EzUWUydTFOa1pSQnhSTHQ1Z09CcnFvTUhMcFA5ajJIczgwbzlkSTFncXBFRDFSb3MxQmovcWR6U3A2ZW1OZEhZbjV4d09id1NHVTZieGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1ODc2MDI1CWZpbGU6dXBkYXRlci10ZXN0LmFwcC50YXIuZ3oKZmZTYVE2R1Qyd09Cc3JxYm5aUTNuY0NxRW9QdHI2ZG9QR0pWOXFYbVdKc0x1a2hCT2hVczJrYlZPQ3o5NGladVE5YjNMWjhOMVJweFNvc3JYclpHQVE9PQo=",
-      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOTRkTVlBRjlIakpsM08rdU1LaFh3cWk1Q0ZGQ3FYZ0VGVkhXRGRPWnpzR2NEa3UxdzVqNi9XaVRmbUUwL05vTFVKaUhlbzRFUTYwQ1MvKzBQckg1L0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc2NDY0NjM5CWZpbGU6dXBkYXRlci10ZXN0LmFwcC50YXIuZ3oKbm03ajdVMVVEVHQ3Smxhb2twbFVLd1QzV1gyOVpEcnZuVFQwckhmWWR6WUZuclEwQzVYNFhjNzhhaEVVS0hJQlZLR0FRVkRWMUZoM2xSbVVJS0xtQVE9PQo=",
+      "url": "  https://github.com/matthme/updater-test/releases/download/v0.0.5/updater-test.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOThHaGpoYVV3R0dtUXJYSWp4MEo1Wm5RN2lGRmg1NVJjOVJHMEhBNGhwcFJJMXJoRTVvbVBoM1BzYnJDWE1Mc01iSzN0RVFyakl0cFNjYUJaa0ZhWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1ODc2MTUzCWZpbGU6dXBkYXRlci10ZXN0XzAuMC40X2FtZDY0LkFwcEltYWdlLnRhci5negp2dUc0Q20yMWRoR2V0SkUra3pWRzdFMEdBWDNKVk9zajhVVmR4Kzh1cWkxN2pIdHJmQjZSaEJTTjhCWmJoMDFTK0JKdTlEVUNaQkNCODlaTTBJWWtDQT09Cg==",
-      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test_0.0.4_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOXdmeUVoVS9GanBxZytGOW9iQTAwTk1RZGlWbDY0YnB5MDAzYXNuaEI5RVpjTTJpYURYcTdhS2Iyb09kQnFGZGxaK2EzcUFzdGhsYkkzQlhxOE93ZHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc2NDY0OTI3CWZpbGU6dXBkYXRlci10ZXN0XzAuMC41X2FtZDY0LkFwcEltYWdlLnRhci5negoxMjQ3YzdZUFpGa0gyQXYyTFhVYmNBa0VCYS9RcHV0RnJIdzJOVWFwV0l4ejVkR1YvK20zZElSNklXc3RDUE5sWGFHOVBiMDZHK1p1b3kyb0FzQUlDUT09Cg==",
+      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.5/updater-test_0.0.5_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOTZMdTRpRUpyOUYxQ1pnbXlVZmk2UkU4WTl3a09rNk1jc1FBT2UyWE05U1lnME4wTjVMQUlWRHRKU3lNREUrd3lIcVEweG51a3NIR1N0VWN2L1pqRHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1ODc2MzcxCWZpbGU6dXBkYXRlci10ZXN0XzAuMC40X3g2NF9lbi1VUy5tc2kuemlwCmZ0dHdqOHpIcTRHWjNLVWxmQThoNDlRNTAyUWsrM1JtelRNN1llU1Zkd1BPL2FmRFJpS0lQMXV0bm5xNHBPNGlXeVp2ZldoTVdKTERrZ0xlSnVmWUFnPT0K",
-      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.4/updater-test_0.0.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZXVlVEVyZGVwOXkrSzJXNFJOa1kycUh5ZE54ejh0ODd3QkZTbThGa0hIeExpVFBzOWFpem1HWXZxKzYwMm5pemVYR3N2bFRXNisrWllVWlB3VUFzcXEzb09xZURFTGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc2NDY0OTYyCWZpbGU6dXBkYXRlci10ZXN0XzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCnNpUnNzNjdrNTRScHNmWU02eGN4RUx1MG5USVV3TWxIZ0VRcXNYLzUzSW5CUXg3T1VqSTl2Wmg2T21keDZkamZCdU43Yi80ZzFRNCtmcWZXb0s4N0FRPT0K",
+      "url": "https://github.com/matthme/updater-test/releases/download/v0.0.5/updater-test_0.0.5_x64_en-US.msi.zip"
     }
   }
 }
