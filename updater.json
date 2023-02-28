@@ -1,6 +1,6 @@
 {
-  "version": "v0.0.5",
-  "notes": "Updated to version 0.0.5. This version is supposed to test whether updates work!",
+  "version": "v0.0.6",
+  "notes": "Updated to version 0.0.6.\nThis version tests whether multiline comments work in the release notes.\n- new feature 1\n-new feature 2\n- new feature 3\n\nAnd some final comment at the bottom :)",
   "pub_date": "2023-02-08T17:42:00Z",
   "platforms": {
     "darwin-x86_64": {
